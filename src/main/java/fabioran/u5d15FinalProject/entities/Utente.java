@@ -52,3 +52,23 @@ public class Utente implements UserDetails {
         return this.email;
     }
 }
+
+/*
+
+Registrazione
+
+{
+    "nome": "",
+    "cognome": "",
+    "email": "",
+    "username": "",
+    "password": ""
+}
+
+Login
+
+{
+    "email": "",
+    "password": ""
+}
+ */
